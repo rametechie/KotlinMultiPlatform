@@ -2,3 +2,5 @@
 /.gradle/
 /.idea/
 /.kotlin/
+/shared/build/
+/composeApp/build/

@@ -20,41 +20,41 @@
 15-->[androidx.core:core:1.13.1] /Users/ramesh/.gradle/caches/8.9/transforms/7233bc51ae630255f24b976727674079/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
 16
 17    <application
-17-->/Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:4:5-21:19
+17-->/Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:4:5-21:19
 18        android:allowBackup="true"
-18-->/Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:5:9-35
+18-->/Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:5:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 19-->[androidx.core:core:1.13.1] /Users/ramesh/.gradle/caches/8.9/transforms/7233bc51ae630255f24b976727674079/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
 20        android:debuggable="true"
 21        android:extractNativeLibs="false"
 22        android:icon="@mipmap/ic_launcher"
-22-->/Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:6:9-43
+22-->/Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:6:9-43
 23        android:label="@string/app_name"
-23-->/Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:7:9-41
+23-->/Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:7:9-41
 24        android:roundIcon="@mipmap/ic_launcher_round"
-24-->/Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:8:9-54
+24-->/Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:8:9-54
 25        android:supportsRtl="true"
-25-->/Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:9:9-35
+25-->/Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:9:9-35
 26        android:testOnly="true"
 27        android:theme="@android:style/Theme.Material.Light.NoActionBar" >
-27-->/Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:10:9-72
+27-->/Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:10:9-72
 28        <activity
-28-->/Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:11:9-20:20
+28-->/Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:11:9-20:20
 29            android:name="com.kotlinmultiplatform.MainActivity"
-29-->/Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:14:13-41
+29-->/Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:14:13-41
 30            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden|mnc|colorMode|density|fontScale|fontWeightAdjustment|keyboard|layoutDirection|locale|mcc|navigation|smallestScreenSize|touchscreen|uiMode"
-30-->/Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:13:13-225
+30-->/Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:13:13-225
 31            android:exported="true" >
-31-->/Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:12:13-36
+31-->/Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:12:13-36
 32            <intent-filter>
-32-->/Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:15:13-19:29
+32-->/Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:15:13-19:29
 33                <action android:name="android.intent.action.MAIN" />
-33-->/Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:16:17-69
-33-->/Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:16:25-66
+33-->/Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:16:17-69
+33-->/Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:16:25-66
 34
 35                <category android:name="android.intent.category.LAUNCHER" />
-35-->/Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:18:17-77
-35-->/Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:18:27-74
+35-->/Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:18:17-77
+35-->/Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:18:27-74
 36            </intent-filter>
 37        </activity>
 38

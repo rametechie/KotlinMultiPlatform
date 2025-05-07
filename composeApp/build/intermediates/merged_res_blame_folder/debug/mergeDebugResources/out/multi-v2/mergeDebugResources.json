@@ -3654,6 +3654,23 @@
                     }
                 },
                 {
+                    "source": "/Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "56",
+                        "endOffsets": "68"
+                    },
+                    "to": {
+                        "startLines": "101",
+                        "startColumns": "4",
+                        "startOffsets": "6129",
+                        "endColumns": "56",
+                        "endOffsets": "6181"
+                    }
+                },
+                {
                     "source": "/Users/ramesh/.gradle/caches/8.9/transforms/9c6a8283bd2fe817f1ef082a209b629a/transformed/core-viewtree-1.0.0/res/values/values.xml",
                     "from": {
                         "startLines": "2",
@@ -3736,23 +3753,6 @@
                         "startOffsets": "5819",
                         "endColumns": "53",
                         "endOffsets": "5868"
-                    }
-                },
-                {
-                    "source": "/Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/res/values/strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "56",
-                        "endOffsets": "68"
-                    },
-                    "to": {
-                        "startLines": "101",
-                        "startColumns": "4",
-                        "startOffsets": "6129",
-                        "endColumns": "56",
-                        "endOffsets": "6181"
                     }
                 }
             ]

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:2:1-23:12
-INJECTED from /Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:2:1-23:12
-INJECTED from /Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:2:1-23:12
-INJECTED from /Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:2:1-23:12
+ADDED from /Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:2:1-23:12
+INJECTED from /Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:2:1-23:12
+INJECTED from /Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:2:1-23:12
+INJECTED from /Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:2:1-23:12
 MERGED from [androidx.activity:activity:1.10.1] /Users/ramesh/.gradle/caches/8.9/transforms/0bdd9e04692af73e84fd3a6b80bf0c24/transformed/activity-1.10.1/AndroidManifest.xml:17:1-22:12
 MERGED from [org.jetbrains.compose.components:components-resources-android:1.7.3] /Users/ramesh/.gradle/caches/8.9/transforms/03f9eb5bbe3c4912c175ae8b5a4678e4/transformed/library-release/AndroidManifest.xml:2:1-16:12
 MERGED from [androidx.compose.material:material-android:1.7.6] /Users/ramesh/.gradle/caches/8.9/transforms/de894c393bb484cf6fe2f7902346189c/transformed/material-release/AndroidManifest.xml:2:1-7:12
@@ -24,7 +24,7 @@ MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] /Users
 MERGED from [androidx.compose.ui:ui-android:1.7.6] /Users/ramesh/.gradle/caches/8.9/transforms/9755ccc248ceb966b615805f77dcfc51/transformed/ui-release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.activity:activity-ktx:1.10.1] /Users/ramesh/.gradle/caches/8.9/transforms/4114bf589d1f16500f6fe4829a01d9c9/transformed/activity-ktx-1.10.1/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.activity:activity-compose:1.10.1] /Users/ramesh/.gradle/caches/8.9/transforms/b9897366b4973d3490fd3ee3786e1eaf/transformed/activity-compose-1.10.1/AndroidManifest.xml:2:1-7:12
-MERGED from [:shared] /Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/shared/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared] /Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/shared/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/ramesh/.gradle/caches/8.9/transforms/f1479fd7b7aac8fd12017e1bd1c309f2/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/ramesh/.gradle/caches/8.9/transforms/1fe67834b79b29c2c8b60ca1193b734c/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
 MERGED from [androidx.autofill:autofill:1.0.0] /Users/ramesh/.gradle/caches/8.9/transforms/4c7bf563312e7d7e82a446a6c4cc52d1/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
@@ -53,16 +53,16 @@ MERGED from [androidx.tracing:tracing:1.0.0] /Users/ramesh/.gradle/caches/8.9/tr
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ramesh/.gradle/caches/8.9/transforms/13d1139e0101429dcaab2ee7e16b019c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ramesh/.gradle/caches/8.9/transforms/c718a0e7120af8b11e54a3b69da2cc9d/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 	package
-		INJECTED from /Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml
+		INJECTED from /Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml
+		INJECTED from /Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml
+		INJECTED from /Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:2:11-69
+		ADDED from /Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:2:11-69
 application
-ADDED from /Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:4:5-21:19
-INJECTED from /Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:4:5-21:19
+ADDED from /Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:4:5-21:19
+INJECTED from /Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:4:5-21:19
 MERGED from [org.jetbrains.compose.components:components-resources-android:1.7.3] /Users/ramesh/.gradle/caches/8.9/transforms/03f9eb5bbe3c4912c175ae8b5a4678e4/transformed/library-release/AndroidManifest.xml:7:5-14:19
 MERGED from [org.jetbrains.compose.components:components-resources-android:1.7.3] /Users/ramesh/.gradle/caches/8.9/transforms/03f9eb5bbe3c4912c175ae8b5a4678e4/transformed/library-release/AndroidManifest.xml:7:5-14:19
 MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] /Users/ramesh/.gradle/caches/8.9/transforms/b58915888838d41b3e710f46d50625b4/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
@@ -80,43 +80,43 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ramesh/.gradle/cache
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ramesh/.gradle/caches/8.9/transforms/13d1139e0101429dcaab2ee7e16b019c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ramesh/.gradle/caches/8.9/transforms/13d1139e0101429dcaab2ee7e16b019c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 	android:extractNativeLibs
-		INJECTED from /Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml
+		INJECTED from /Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.13.1] /Users/ramesh/.gradle/caches/8.9/transforms/7233bc51ae630255f24b976727674079/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from /Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:9:9-35
+		ADDED from /Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:9:9-35
 	android:label
-		ADDED from /Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:7:9-41
+		ADDED from /Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:7:9-41
 	android:roundIcon
-		ADDED from /Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:8:9-54
+		ADDED from /Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:8:9-54
 	android:icon
-		ADDED from /Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:6:9-43
+		ADDED from /Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:6:9-43
 	android:allowBackup
-		ADDED from /Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:5:9-35
+		ADDED from /Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:5:9-35
 	android:theme
-		ADDED from /Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:10:9-72
+		ADDED from /Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:10:9-72
 activity#com.kotlinmultiplatform.MainActivity
-ADDED from /Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:11:9-20:20
+ADDED from /Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:11:9-20:20
 	android:exported
-		ADDED from /Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:12:13-36
+		ADDED from /Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:12:13-36
 	android:configChanges
-		ADDED from /Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:13:13-225
+		ADDED from /Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:13:13-225
 	android:name
-		ADDED from /Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:14:13-41
+		ADDED from /Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:14:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:15:13-19:29
+ADDED from /Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from /Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:16:17-69
+ADDED from /Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from /Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:16:25-66
+		ADDED from /Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:18:17-77
+ADDED from /Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from /Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml:18:27-74
+		ADDED from /Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml:18:27-74
 uses-sdk
-INJECTED from /Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml
-INJECTED from /Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml
+INJECTED from /Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml
+INJECTED from /Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml
 MERGED from [androidx.activity:activity:1.10.1] /Users/ramesh/.gradle/caches/8.9/transforms/0bdd9e04692af73e84fd3a6b80bf0c24/transformed/activity-1.10.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.activity:activity:1.10.1] /Users/ramesh/.gradle/caches/8.9/transforms/0bdd9e04692af73e84fd3a6b80bf0c24/transformed/activity-1.10.1/AndroidManifest.xml:20:5-44
 MERGED from [org.jetbrains.compose.components:components-resources-android:1.7.3] /Users/ramesh/.gradle/caches/8.9/transforms/03f9eb5bbe3c4912c175ae8b5a4678e4/transformed/library-release/AndroidManifest.xml:5:5-44
@@ -157,8 +157,8 @@ MERGED from [androidx.activity:activity-ktx:1.10.1] /Users/ramesh/.gradle/caches
 MERGED from [androidx.activity:activity-ktx:1.10.1] /Users/ramesh/.gradle/caches/8.9/transforms/4114bf589d1f16500f6fe4829a01d9c9/transformed/activity-ktx-1.10.1/AndroidManifest.xml:5:5-44
 MERGED from [androidx.activity:activity-compose:1.10.1] /Users/ramesh/.gradle/caches/8.9/transforms/b9897366b4973d3490fd3ee3786e1eaf/transformed/activity-compose-1.10.1/AndroidManifest.xml:5:5-44
 MERGED from [androidx.activity:activity-compose:1.10.1] /Users/ramesh/.gradle/caches/8.9/transforms/b9897366b4973d3490fd3ee3786e1eaf/transformed/activity-compose-1.10.1/AndroidManifest.xml:5:5-44
-MERGED from [:shared] /Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/shared/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
-MERGED from [:shared] /Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/shared/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:shared] /Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/shared/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:shared] /Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/shared/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
 MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/ramesh/.gradle/caches/8.9/transforms/f1479fd7b7aac8fd12017e1bd1c309f2/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/ramesh/.gradle/caches/8.9/transforms/f1479fd7b7aac8fd12017e1bd1c309f2/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/ramesh/.gradle/caches/8.9/transforms/1fe67834b79b29c2c8b60ca1193b734c/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
@@ -214,9 +214,9 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/rame
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ramesh/.gradle/caches/8.9/transforms/c718a0e7120af8b11e54a3b69da2cc9d/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ramesh/.gradle/caches/8.9/transforms/c718a0e7120af8b11e54a3b69da2cc9d/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 	android:targetSdkVersion
-		INJECTED from /Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml
+		INJECTED from /Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Volumes/Eaget/AndroidStudioProjects/KotlinMultiplatform/composeApp/src/androidMain/AndroidManifest.xml
+		INJECTED from /Volumes/Eaget/AndroidStudioProjects/Multiplatform/KotlinMultiPlatform/composeApp/src/androidMain/AndroidManifest.xml
 provider#org.jetbrains.compose.resources.AndroidContextProvider
 ADDED from [org.jetbrains.compose.components:components-resources-android:1.7.3] /Users/ramesh/.gradle/caches/8.9/transforms/03f9eb5bbe3c4912c175ae8b5a4678e4/transformed/library-release/AndroidManifest.xml:8:9-13:20
 	android:enabled

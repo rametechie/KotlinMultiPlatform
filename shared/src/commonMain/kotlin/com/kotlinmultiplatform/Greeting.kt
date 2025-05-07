@@ -7,6 +7,6 @@ class Greeting {
 
     fun greet(): String {
         val firstWorld = if (Random.nextBoolean()) "Hi!" else "Hello!"
-        return "$firstWorld Guess what this is! > ${platform.name.reversed()}!"
+        return "$firstWorld [$num] Guess what this is! > ${platform.name.reversed()}!"
     }
 }
