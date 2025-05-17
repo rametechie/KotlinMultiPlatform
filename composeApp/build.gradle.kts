@@ -32,7 +32,11 @@ kotlin {
             implementation(compose.components.uiToolingPreview)
             implementation(libs.androidx.lifecycle.viewmodel)
             implementation(libs.androidx.lifecycle.runtime.compose)
+            implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2")
+            implementation("androidx.lifecycle:lifecycle-runtime-compose:2.6.2")
+            implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.6")
             implementation(projects.shared)
+
         }
     }
 }
