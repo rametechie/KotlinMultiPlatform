@@ -1,5 +1,6 @@
 import SwiftUI
 import Shared
+import KMPNativeCoroutinesAsync
 
 struct ContentView: View {
     @ObservedObject private(set) var viewModel: ViewModel
@@ -7,8 +8,12 @@ struct ContentView: View {
     let phrases = Greeting().greet()
 
     var body: some View {
-        List(phrases: viewModel.greetings)
-            .task { await self.viewModel.startObserving() }
+        List(viewModel.greetings, id: \.self) { phrase in
+            Text(phrase)
+        }
+        .task {
+            await viewModel.startObserving()
+        }
     }
 }
 
@@ -17,7 +22,7 @@ extension ContentView {
     class ViewModel: ObservableObject {
         @Published var greetings: Array<String> = []
                                         
-        func startObserving() {
+        func startObserving() async{
             do {
                 let sequence = asyncSequence(for: Greeting().greet())
                 for try await phrase in sequence {
@@ -42,6 +47,6 @@ struct ListView: View {
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+         ContentView(viewModel: ContentView.ViewModel())
     }
 }
